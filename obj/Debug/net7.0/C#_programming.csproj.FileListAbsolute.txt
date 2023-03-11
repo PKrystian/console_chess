@@ -1,0 +1,15 @@
+E:\console_chess\obj\Debug\net7.0\C#_programming.csproj.AssemblyReference.cache
+E:\console_chess\obj\Debug\net7.0\C#_programming.GeneratedMSBuildEditorConfig.editorconfig
+E:\console_chess\obj\Debug\net7.0\C#_programming.AssemblyInfoInputs.cache
+E:\console_chess\obj\Debug\net7.0\C#_programming.AssemblyInfo.cs
+E:\console_chess\obj\Debug\net7.0\C#_programming.csproj.CoreCompileInputs.cache
+E:\console_chess\bin\Debug\net7.0\C#_programming.exe
+E:\console_chess\bin\Debug\net7.0\C#_programming.deps.json
+E:\console_chess\bin\Debug\net7.0\C#_programming.runtimeconfig.json
+E:\console_chess\bin\Debug\net7.0\C#_programming.dll
+E:\console_chess\bin\Debug\net7.0\C#_programming.pdb
+E:\console_chess\obj\Debug\net7.0\C#_programming.dll
+E:\console_chess\obj\Debug\net7.0\refint\C#_programming.dll
+E:\console_chess\obj\Debug\net7.0\C#_programming.pdb
+E:\console_chess\obj\Debug\net7.0\C#_programming.genruntimeconfig.cache
+E:\console_chess\obj\Debug\net7.0\ref\C#_programming.dll
